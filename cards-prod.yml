@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to KhanBank accounts related product APIs "
   contactDetails:
-    name: "Reine Aishwarya prod - Product Owner"
+    name: "Reine Aishwarya product - Product Owner"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
